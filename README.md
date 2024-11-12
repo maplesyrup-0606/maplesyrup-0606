@@ -1,7 +1,7 @@
 # 🐳 maplesyruphg-0606
 **`Mercury Mcindoe (Computer Engineering Student)`**
 
-I'm a 3rd year Computer Engineering student with a minor in Honours Mathematics currently studying at UBC, Vancouver!
+I'm a 4Th year Computer Engineering student with a minor in Honours Mathematics currently studying @ UBC, Vancouver!
 ---
 ### 🧰 Languages and Tools
 
